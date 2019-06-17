@@ -6,7 +6,7 @@ layout: default
 
 ## github
 # Mona
-    *momomomo
+    * momomomo
 
 A girl
 
