@@ -6,7 +6,7 @@ layout: default
 
 ## github
 # Mona
-    * momomomo
+    ### momomomo
 
 A girl
 
@@ -20,7 +20,7 @@ A girl
 
 
 - - -
-* [臉書](https://www.facebook.com/profile.php?id=100000038168104)
+    * [臉書](https://www.facebook.com/profile.php?id=100000038168104)
 - - -
  * [11 amazing Kirby facts and secrets](http://www.officialnintendomagazine.co.uk/41729/11-amazing-kirby-facts-and-secrets/)
  * [How did your favourite Nintendo characters get their names?](http://www.officialnintendomagazine.co.uk/42153/how-did-mario-get-his-name-and-the-origins-of-your-favourite-nintendo-stars/?page=6)
